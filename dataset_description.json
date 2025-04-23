@@ -1,5 +1,5 @@
 {
-    "Name": "REQUIRED. Name of the dataset",
+    "Name": "QNL NegativeBOLD Database",
     "GeneratedBy": [
         {
             "Name": "BIDScoin",
@@ -10,7 +10,7 @@
     ],
     "BIDSVersion": "1.10.0",
     "DatasetType": "raw",
-    "License": "RECOMMENDED. The license for the dataset. The use of license name abbreviations is RECOMMENDED for specifying a license. The corresponding full license text MAY be specified in an additional LICENSE file",
+    "License": "CC0",
     "Authors": [
         "OPTIONAL. List of individuals who contributed to the creation/curation of the dataset"
     ],
